@@ -37,12 +37,6 @@
             android:exported="false"
             android:label="Новость" />
 
-        <!-- AddEditNewsActivity — создание / редактирование новости -->
-        <activity
-            android:name=".ui.AddEditNewsActivity"
-            android:exported="false"
-            android:label="Добавить / Редактировать новость" />
-
     </application>
 
 </manifest>
